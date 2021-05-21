@@ -13,6 +13,7 @@ RUN set -ex; \
         gedit \
         expect \
         sudo \
+	python3-pip \
         vim \
 	vlc \
         bash \
